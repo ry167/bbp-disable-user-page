@@ -18,7 +18,7 @@ This helps prevent any negative consequences of spammers and bots registering on
 
 == Installation ==
 
-1. Download the [zip file from GitHub](https://github.com/ry167/bbp-disable-user-page/archive/master.zip)
+1. Download the zip file from GitHub: https://github.com/ry167/bbp-disable-user-page/archive/master.zip
 2. Upload it to your site.
 
 == Frequently Asked Questions ==
